@@ -1,0 +1,30 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  test.cpp
+D:\C语言\test\test.cpp(59,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(60,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(78,14): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“bool *”
+D:\C语言\test\test.cpp(78,14): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“bool *”
+D:\C语言\test\test.cpp(74,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(76,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(78,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(81,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(84,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(87,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(97,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(128,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(128,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(165,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(165,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(166,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(166,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(173,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(173,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(180,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(180,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(181,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(181,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(188,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(188,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\test\test.cpp(392,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C语言\test\test.cpp(399,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.vcxproj -> D:\C语言\test\x64\Debug\test.exe
